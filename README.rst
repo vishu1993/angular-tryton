@@ -75,5 +75,3 @@ and `support`_ teams.
 .. _Openlabs: http://www.openlabs.co.in
 .. _sales: mailto:sales@openlabs.co.in
 .. _support: mailto:support@openlabs.co.in
-
-
